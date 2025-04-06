@@ -1,0 +1,1 @@
+loggingframework.LogMessage{logLevel=DEBUG, message='Debugging start..', timestamp=1743921197858}LogMessage{logLevel=DEBUG, message='Debugging start..', timestamp=1743921237440}LogMessage{logLevel=DEBUG, message='Debugging start..', timestamp=1743921269716}
